@@ -2,6 +2,8 @@ import os
 import time
 import random
 
+#I did this thing different
+
 #list = ["shift","soda","guitar","game","watch","water","teacher","student","bottle"]
 list = ["hello"]
 chance = ["(lives)> ","♥ ","♥ ","♥ ","♥ ","♥ "]
